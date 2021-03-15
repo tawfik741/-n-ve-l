@@ -1,6 +1,6 @@
 
 
-# Python program implementing Image Steganography
+# Encode/Decode Veil 
 
 # PIL module is used to extract
 # pixels of image and modify it
