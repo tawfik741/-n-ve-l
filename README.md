@@ -1,7 +1,7 @@
 # ʌnˈveɪl
 
-to run ʌnˈveɪl decoder and decode your veil run: 
+to run ***ʌnˈveɪl*** crypto engine and *decode* your veil or just *encode* your own veils run: 
 
 ```bash
-python3 decode_veil.py
+python3 veil.py
 ```
